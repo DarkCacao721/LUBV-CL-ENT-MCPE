@@ -1,2 +1,2 @@
-# LUBV-CL-ENT-MCPE
+# LUBV-CLIENT-MCPE
 Bunu android bedrock için kullanabilirsiniz. İOS yoktur....
